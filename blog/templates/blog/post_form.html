@@ -1,0 +1,15 @@
+{% extends 'blog/base.html' %}
+{% block content %}
+  <h1>Edit post</h1>
+  <br>
+  <img style="border-radius:0px;"src="{{post.thumbnail.url}}" class="card-img-top" alt="Image not found">
+  <br><br>
+  <div class="container">
+    <form method="POST" class="post-form">
+      {% csrf_token %}
+      {{form.as_p}}
+      <button type="submit" class="btn btn-primary">Save</button>
+    </form>
+    <script>var editor = new MediumEditor('.editable');</script>
+  </div>
+{% endblock %}

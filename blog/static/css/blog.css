@@ -1,0 +1,42 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
+strong a{
+  color: black;
+}
+strong a:hover{
+  color: #1A80C6;
+  text-decoration:none;
+}
+.card{
+  border:white;
+}
+.card a{
+  color: black;
+}
+.card a:hover{
+  color: #1A80C6;
+  text-decoration:none;
+}
+.card img{
+border-radius:0px;
+height: 300px;
+object-fit: cover;
+}
+
+
+h1 {
+text-align:center;
+}
+
+
+
+.btn-comment{
+  position: absolute;
+}
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
