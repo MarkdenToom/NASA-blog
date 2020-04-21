@@ -1,5 +1,5 @@
 # NASA-blogs
-A blog about recent NASA articles. View it *here*
+A blog about recent NASA articles. View it [here](https://nasablogdeployment.eu.pythonanywhere.com/).
 
 ## Notable features:
 ### **Admins can create and edit blog posts without using the admin panel**
