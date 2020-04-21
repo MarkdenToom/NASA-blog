@@ -22,7 +22,7 @@ A blog about recent NASA articles. View it *here*
 * [Bootstrap](https://getbootstrap.com/) - Frontend framework for styling and device scaling
 * HTML - Frontend visualization
 * CSS - Additional frontend styling
-* SQLite - Database
+* [SQLite](https://www.sqlite.org/index.html) - Database
 * [PythonAnywhere](https://eu.pythonanywhere.com/) - Service used for deployment
 
 ## Authors
