@@ -48,4 +48,3 @@ This project is licensed under the Unlicense - see the [LICENSE.md](https://gith
 
 * The fine ladies 'n gentlemen at StackOverflow for posting & answering questions
 * The Django documentation
-* [bradtraversy](https://github.com/bradtraversy/btre_project) for the front-end layout
