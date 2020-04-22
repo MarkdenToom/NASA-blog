@@ -4,11 +4,7 @@ A blog about recent NASA articles.
 
 ## Getting Started
 
-View the site [here](https://nasablogdeployment.eu.pythonanywhere.com/). If the site is down, [send me an email](mailto:markdentoom@hotmail.com?subject=[GitHub]%20NASA-blog%20is%20down!) and I will re-enable it.
-
-### Prerequisites
-
-* An internet connection.
+View the site [here](https://nasablogdeployment.eu.pythonanywhere.com/). If the site is down, [send me an email](mailto:markdentoom@hotmail.com?subject=[GitHub]%20NASA-blog%20is%20down!) and I will restart it.
 
 ## Notable features:
 ### **Admins can create and edit blog posts without using the admin panel**
@@ -36,7 +32,7 @@ View the site [here](https://nasablogdeployment.eu.pythonanywhere.com/). If the 
 
 ## Contributing
 
-This is a solo project. If you find any issues, please refer to the issues tab. (https( of this repository [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+This is a solo project. If you find any issues, please create in issue in the [Issues tab](https://github.com/your/project/issues).
 
 ## Authors
 
@@ -46,10 +42,10 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* The fine ladies 'n gentlemen at StackOverflow for posting & answering questions
+* The Django documentation
+* [bradtraversy](https://github.com/bradtraversy/btre_project) for the front-end layout
