@@ -1,5 +1,14 @@
-# NASA-blogs
-A blog about recent NASA articles. View it [here](https://nasablogdeployment.eu.pythonanywhere.com/).
+# NASA-blog
+
+A blog about recent NASA articles.
+
+## Getting Started
+
+View the site [here](https://nasablogdeployment.eu.pythonanywhere.com/). If the site is down, [send me an email](mailto:markdentoom@hotmail.com?subject=[GitHub]%20NASA-blog%20is%20down!) and I will re-enable it.
+
+### Prerequisites
+
+* An internet connection.
 
 ## Notable features:
 ### **Admins can create and edit blog posts without using the admin panel**
@@ -24,6 +33,10 @@ A blog about recent NASA articles. View it [here](https://nasablogdeployment.eu.
 * CSS - Additional frontend styling
 * [SQLite](https://www.sqlite.org/index.html) - Database
 * [PythonAnywhere](https://eu.pythonanywhere.com/) - Service used for deployment
+
+## Contributing
+
+This is a solo project. If you find any issues, please refer to the issues tab. (https( of this repository [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
