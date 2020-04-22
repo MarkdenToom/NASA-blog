@@ -32,7 +32,7 @@ View the site [here](https://nasablogdeployment.eu.pythonanywhere.com/). If the 
 
 ## Contributing
 
-This is a solo project. If you find any issues, please create in issue in the [Issues tab](https://github.com/your/project/issues).
+This is a solo project. If you find any issues, please create in issue in the [Issues tab](https://github.com/MarkdenToom/NASA-blog/issues).
 
 ## Authors
 
