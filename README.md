@@ -12,7 +12,7 @@ View the site [here](https://nasablogdeployment.eu.pythonanywhere.com/). If the 
 
 
 
-### **Posts can be created/ edited using the medium editor**
+### **Posts can be created/ edited using the [medium editor](https://yabwe.github.io/medium-editor/)**
 ![medium-editor-view](https://user-images.githubusercontent.com/59030690/79642309-0e6b8f00-819d-11ea-96a4-1935161d6a24.PNG)
 
 
